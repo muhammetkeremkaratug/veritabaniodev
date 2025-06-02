@@ -1,0 +1,2 @@
+# veritabaniodev
+muhammetkeremkaratug ılaydacetın
